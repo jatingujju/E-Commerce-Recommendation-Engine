@@ -1,0 +1,16 @@
+item_id,name,category,brand,price,description
+1,iPhone 15,Mobile,Apple,79999,Apple smartphone with advanced camera
+2,Samsung Galaxy S24,Mobile,Samsung,74999,Android smartphone with AI features
+3,MacBook Air,Laptop,Apple,99999,Lightweight productivity laptop
+4,Dell XPS,Laptop,Dell,95999,Premium Windows laptop
+5,Sony Headphones,Audio,Sony,14999,Wireless noise cancelling headphones
+6,Boat Earbuds,Audio,Boat,2999,Bluetooth earbuds with deep bass
+7,Apple Watch,Wearable,Apple,39999,Smartwatch with health tracking
+8,Galaxy Watch,Wearable,Samsung,34999,Fitness smartwatch
+9,iPad Air,Tablet,Apple,54999,Portable productivity tablet
+10,Samsung Tab,Tablet,Samsung,49999,Android entertainment tablet
+11,Lenovo ThinkPad,Laptop,Lenovo,89999,Business laptop
+12,JBL Speaker,Audio,JBL,7999,Portable bluetooth speaker
+13,OnePlus 13,Mobile,OnePlus,69999,Flagship Android smartphone
+14,Noise Smartwatch,Wearable,Noise,4999,Affordable smartwatch
+15,HP Pavilion,Laptop,HP,65999,Student productivity laptop
